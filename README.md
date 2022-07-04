@@ -21,4 +21,13 @@ Find any interesting trends/behaviors that you encounter when you analyze the da
 # Data licence:http://opendatacommons.org/licenses/odbl/1.0/
 # TOOLS:Excel for data cleaning , powerbi for data vizualisation and story telling
 
-# Process/Transformation
+# Process/Transformation:
+Raw data
+![Screenshot (229)](https://user-images.githubusercontent.com/107101960/177220559-49240700-01da-4306-b62b-fea536343599.png)
+I changed the date format using "text to column" because i discovered my date is in text form
+I deleted missing data
+![Screenshot (230)](https://user-images.githubusercontent.com/107101960/177220972-814ad1f8-12a2-433f-b9f3-a73a228a0106.png)
+I also removed the Time column because i found the column wasnt completee
+i created a worksheet for military helicopter casualty
+I removed the groung column because its not needed in my analyses
+
