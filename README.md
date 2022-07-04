@@ -17,4 +17,8 @@ Find any interesting trends/behaviors that you encounter when you analyze the da
 
 # Prepare phase
 
-# Data Sourcing:
+# Data Sourcing:https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908
+# Data licence:http://opendatacommons.org/licenses/odbl/1.0/
+# TOOLS:Excel for data cleaning , powerbi for data vizualisation and story telling
+
+# Process/Transformation
