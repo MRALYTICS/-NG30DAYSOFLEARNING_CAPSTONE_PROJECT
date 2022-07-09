@@ -5,29 +5,67 @@ This project is for the #NG30DAYSOFLEARNING.
  Airplane Crashes and Fatalities Since 1908 (Full history of airplane crashes throughout the world, from 1908-present)
 At the time this Dataset was created in Kaggle (2016-09-09), the original version was hosted by Open Data by Socrata at the at: https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq, but unfortunately that is not available anymore. The dataset contains data of airplane accidents involving civil, commercial and military transport worldwide from 1908-09-17 to 2009-06-08.
 
-
-![image](https://user-images.githubusercontent.com/107101960/177205801-3c026c2c-857c-4c40-aa5b-349551a82c9b.png)
+![Screenshot (244)](https://user-images.githubusercontent.com/107101960/178094902-a1e2c90b-eb45-463c-bb20-6bee7ca78d4e.png)
 
 # Questions i ask myself/Objective:
-Yearly how many planes crashed? how many people were on board? how many survived? how many died?
-Highest number of crashes by operator and Type of aircrafts.
-‘Summary’ field has the details about the crashes. Find the reasons of the crash and categorize them in different clusters i.e Fire, shot down, weather (for the ‘Blanks’ in the data category can be UNKNOWN) you are open to make clusters of your choice but they should not exceed 7.
-Find the number of crashed aircrafts and number of deaths against each category from above step.
-Find any interesting trends/behaviors that you encounter when you analyze the dataset.
+* Yearly how many planes crashed?
+
+* How many people were on board? 
+
+* How many survived? how many died?
+
+
+* Highest number of crashes by operator and Type of aircrafts.
+
+
+
 
 # Prepare phase
+ Data Sourcing:https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908
 
-# Data Sourcing:https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908
-# Data licence:http://opendatacommons.org/licenses/odbl/1.0/
+
+Data licence:http://opendatacommons.org/licenses/odbl/1.0/
+
+
 # TOOLS:Excel for data cleaning , powerbi for data vizualisation and story telling
 
 # Process/Transformation:
-Raw data
+Raw data(EXCEL)
 ![Screenshot (229)](https://user-images.githubusercontent.com/107101960/177220559-49240700-01da-4306-b62b-fea536343599.png)
-I changed the date format using "text to column" because i discovered my date is in text form
-I deleted missing data
-![Screenshot (230)](https://user-images.githubusercontent.com/107101960/177220972-814ad1f8-12a2-433f-b9f3-a73a228a0106.png)
-I also removed the Time column because i found the column wasnt completee
-i created a worksheet for military helicopter casualty
-I removed the groung column because its not needed in my analyses
+* I changed the date format using "text to column", because i discovered my date is in text form
+
+ I Formatted the date to derive;
+* the year(excel)
+
+* the month(excel)
+
+* Days of the week(excel0
+
+* I deleted missing data, replaced the text with unknown and numbers with zero(powerbi)
+
+* I deleted cn/in and registeration column
+
+* I split the text to column BY delimeter as in the location column to derive the country
+![Screenshot (245)](https://user-images.githubusercontent.com/107101960/178096280-e623f738-4a3a-4f05-8491-e88e10035135.png)
+
+
+
+# ANALYSIS
+ * I Created a column for fatality rate using dax in powerbi
+ * i also created a column for those that survived
+ 
+ 
+ 
+ 
+ 
+ # FINDINGS
+ 
+ * The first recorded plane crash in human hsitory was in 1908 by type Fler wright iii
+ 
+ 
+
+ 
+
+
+
 
