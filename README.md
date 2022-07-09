@@ -60,7 +60,16 @@ Raw data(EXCEL)
  
  # FINDINGS
  
- * The first recorded plane crash in human hsitory was in 1908 by type Fler wright iii
+ * The first recorded plane crash in human hsitory was in 1908 by type Flyer wright iii
+ * Japan has the highest death as country from plane crash with 520 deaths in the year 1985
+ * Russia has the highest cummulative fatalities from plane crash with 6.6k deaths
+ * Boeing B-747-SR46 Recorded the highest death as an airplane in the year 1985
+ * Douglas DC-3 recorded the highest cumulative fatalities with 4793 fatalities
+ * Aeropilot has an operator   recorded the highest cummulative fatalities with over 70000 fatalities
+ * The year 1972 recorded the highest fatalities with 2973 fatalities with 3965 aboard
+ * Tenrife-Las
+
+ 
  
  
 
