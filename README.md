@@ -58,16 +58,42 @@ Raw data(EXCEL)
  
  
  
- # FINDINGS
+ # MAJOR FINDINGS
  
- * The first recorded plane crash in human hsitory was in 1908 by type Flyer wright iii
+ * The first recorded plane crash in human history was in 1908 by type Flyer wright iii
  * Japan has the highest death as country from plane crash with 520 deaths in the year 1985
  * Russia has the highest cummulative fatalities from plane crash with 6.6k deaths
  * Boeing B-747-SR46 Recorded the highest death as an airplane in the year 1985
  * Douglas DC-3 recorded the highest cumulative fatalities with 4793 fatalities
  * Aeropilot has an operator   recorded the highest cummulative fatalities with over 70000 fatalities
  * The year 1972 recorded the highest fatalities with 2973 fatalities with 3965 aboard
- * Tenrife-Las
+ * Cummulative fatalities resulting from airplane shot is 5400
+ * Cummulative deaths resulting from Weather condition is 10540
+ * Cummulative deaths resulting from enigne failure is 2094
+ * Cummulative deaths resulting from Fuel is 4071
+ 
+ # FINDINGS PECULIAR TO NIGERIA
+ 
+ * The first airplane crash was in 1969 resulting in 87 deaths with 87 aboard.The cause unknown
+ * The highest death recorded was in 1973,it was a result of a collapsed landing gear.
+ * The lowest  eeath was recorded in 1995.
+ * The major causes was due to poor weather condition,pilot error e.t.c
+ 
+ ![Screenshot (249)](https://user-images.githubusercontent.com/107101960/178105271-c5e8560f-d9ef-4cc9-975d-11203c72d23e.png)
+ 
+ ![Screenshot (251)](https://user-images.githubusercontent.com/107101960/178105326-0637f04d-31d6-4d41-aedf-d877244d58ee.png)
+ 
+ 
+ # RECOMMENDATION 
+
+ 
+ # N.B
+ I filtered out missing values
+
+
+ 
+ 
+
 
  
  
