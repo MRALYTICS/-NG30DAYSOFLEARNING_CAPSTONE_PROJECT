@@ -85,11 +85,15 @@ Raw data(EXCEL)
  
  
  # RECOMMENDATION 
+* Weather forecast should be properly checked and followed
+* Care must be taken while landing 
+* Routine check before flight take off must be followed
 
  
  # N.B
  I filtered out missing values
 
+reache me here for feedbacks
 
  
  
