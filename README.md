@@ -91,9 +91,7 @@ Raw data(EXCEL)
 
  
  # N.B
- I filtered out missing values
-
-reache me here for feedbacks
+ I filtered out missing value
 
  
  
